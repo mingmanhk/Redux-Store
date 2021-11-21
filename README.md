@@ -10,7 +10,7 @@ Deployment:
     https://redux-store-001.herokuapp.com/
      
 Demo
-    <img src="./src/demo.gif"/>
+    <img src="./src/Demo.gif"/>
 
 ## Table of Contents
 1. [Installation](#installation)
